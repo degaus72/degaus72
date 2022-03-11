@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and electronics. I am also a full licesed Ham Radio Operator.
 - 🌱 I’m currently learning CS50x 2022
 - 💞️ I’m looking to collaborate on....not sure yet as my skills need improving :-)
-- 📫 How to reach me via email, gosimatteo @ gmail dot com
+- 📫 You can reach me via email, gosimatteo @ gmail dot com
 
 <!---
 degaus72/degaus72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
