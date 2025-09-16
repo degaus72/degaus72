@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @degaus72
 - 👀 I’m interested in programming and electronics. I am also a full licesed Ham Radio Operator.
-- 🌱 I’m currently learning CS50x 2022
 - 💞️ I’m looking to collaborate on....not sure yet as my skills need improving :-)
 - 📫 You can reach me via email, gosimatteo @ gmail dot com
 
